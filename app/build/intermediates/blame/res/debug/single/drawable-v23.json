@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\2019_Projects\\Blind_Shopping_OCR_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "D:\\2019_Projects\\Blind_Shopping_OCR_App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "D:\\2018_Projects\\application\\Blind_Shopping_OCR_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "D:\\2018_Projects\\application\\Blind_Shopping_OCR_App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "D:\\2019_Projects\\Shopping_App_for_Blind_people\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "D:\\2019_Projects\\Shopping_App_for_Blind_people\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-v23\\abc_control_background_material.xml"
+    }
+]

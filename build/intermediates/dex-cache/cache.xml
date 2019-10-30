@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_1d963c7f9dce79660f8e9a443cd63022c6c2881a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\Blind_Shopping_OCR_App\openCVLibrary310\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7d0e38218f9e250f3990d77084a65abf87461558">
+        <dex dex="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\Blind_Shopping_OCR_App-openCVLibrary310-unspecified_eec88e6d5ece9e86b41eeee015b438d1d7c218e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_54046e9beaaec0ebe2f1b78dd58543e6626786df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_2b59042e8894eb468404d5ff5a7a1ad9eeb2e37e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\exploded-aar\com.rmtheis\tess-two\5.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="360568f833daa8f15e88e7192d50a52e7b0b4aad">
+        <dex dex="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\pre-dexed\debug\com.rmtheis-tess-two-5.4.0_bf64699564c4a22d6df52e9782c98e557bf7f27c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_6a61955656925f2f45648d0d97da1d4c47f72694.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.0_0eab71fedf030d8c5ab555e6fd3be8920108e170.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_ec865cfa0db8fd39308f766929a940d773fadc9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_4e9dc04aa1db662f0b775104a817a35aa324f159.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_8c90e24c1fe8b23965fe0876bd6cebf1b20cae7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_f84df47f0eff98eef83870715ea0c04c1a07d792.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.4.0_b0623ab8a8c5f0e3f7f0a0582aca76282882c643.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.0_058d6816bc20425d662cfcd7aac2d17620b15eb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_d71925dfe6003a3a4f18e3c1d4afde492b0170d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_93f92ef43486d4099c803e6dccc5087b8c64fc0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\Blind_Shopping_OCR_App\openCVLibrary310\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7d0e38218f9e250f3990d77084a65abf87461558">
+        <dex dex="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\Blind_Shopping_OCR_App-openCVLibrary310-unspecified_7094ecf0f6460cc1e450da91c0968bd8da4bedd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_284906c73967c3ae019a6604c24b32ae631ac485.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_f679d67c93a569503dffe931f969f1c923c56eaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.4.0_6ac6e7bf0cd1251793177ab5e7139aab1bfb86f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.4.0_b67a1c2790449192dc6effdc0259664d88a3ac3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.rmtheis\tess-two\5.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="360568f833daa8f15e88e7192d50a52e7b0b4aad">
+        <dex dex="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\com.rmtheis-tess-two-5.4.0_11fe5a176bd8c53d95ca3c9427dae98fa1bda9d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.4.0_ab94001f23b92e53a2b9f5ae6423855a0fc6ba53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_7fefa53716157182b73dbb897075fd90cf582da7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_e3ce8664740a7349b212059b04312f3b6eda6c89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_85724a09153153fcee9ef616d9b79fbe2765155c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_f46b0634b3152fd94f64338ae818b1e346fe19da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_342805687e50075f5c479f41a1dd7138b7f55723.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_a80378f1de9630fb0681375bfcd1960eaecc70ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_93a3a75cc8e4fa4b945ba6b4b8cf49d10b907ce1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_5e36a5d01cf06fd0f7055aef22331e7cfc54077b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_822d6f353c4f8dbf3757fe1362262ebd77797bb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_f440c85808ecf4104521f29e1661b90ae043cd42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_ddd291bc4901ba6c044649c3561478ba5b1e4d76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.4.0_4f4944720d0d81fbb2a0fb11f207b1ad2321e988.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.4.0_e783388dbe6ce8a1e7ef55511c4b4901edd81e7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_80c9cdbf0e3d2f1c1708ce4983191ee5569d5769.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_508d9d80600011d6028e8d95868826003c47f674.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.4.0_f9c1d1869b6338f667b9c1e2662c082e1365e7d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_893255897c872d062fca09bd0fa4ed8491c6cc1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_37bd79b2fd8fcede9a8224e7b6e4d1d2abaaae5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_b5fcb4a0820a4d202d832243c244d52cf36bfed1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_d852997ae418ee0a33b9e6ae8df9e48fa57ce813.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_cec54483f44c0a34608c41123dc06f9a2428a9a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.rmtheis\tess-two\5.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="360568f833daa8f15e88e7192d50a52e7b0b4aad">
+        <dex dex="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\com.rmtheis-tess-two-5.4.0_178c55f011936c215429409e07febf3bb2d6c090.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.4.0_b6938bb5bcd2324161b4727905f9cb2db2b90f56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_e513fbfa7537c0f3864b1a841d29b9ab3398aa7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_84fbe14fbfed438d1a5b05c99082e87a9acb8ed1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_38c21b2fbe3a04b0cdd24dae91af9f096a72035e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.4.0_b56db71d52ac3864bdf13088521b4b5327c2beaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk1\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_a991c15975447385cb78616a0817863a4cc7c335.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_8406e18fec507e4e5327cf11d3507bf9e90eb500.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.4.0_daa11a98bf118a687dfd16f4c408bbff1a48b470.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_fcefee0b48a0591a85e3414403bad9991aaa465e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.4.0_6fddf97b379b0c1349c7761144f277cffb437cbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_7e6249520f66df7cbb0786e26b592e6f92c2cdcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_6d2d9c5739b708c0c787ab8bb2ae40f7ac9f1f95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.4.0_d768bc3480565cac20c4dea50904bdc486cb683a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.0_5878a79f9815de36c394a481d2f7af1fc070ae89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_4a2f2393e26ae680f233b97727993fa428fc2d4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_62bad4e16a7ab7afc0f160dfecb4f87f45dba8fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="D:\2018_Projects\application\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_5d762ba91a231c9d00db721a0e07b3f35467a263.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_9dbe1a3f784b3a50cc90e2cbe28c284d7b97b71f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="D:\2019_Projects\Blind_Shopping_OCR_App\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_8ae3df371ef418301e3339c8e10ef0d86556cac9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_800327985adbb859aa3002062867cb9c15fd972e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\exploded-aar\Shopping_App_for_Blind_people\openCVLibrary310\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="608e4700fb6772d37c8d0ba1e2e55ed0e1cde1a1">
+        <dex dex="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\pre-dexed\debug\Shopping_App_for_Blind_people-openCVLibrary310-unspecified_b0d338b1c0a015fabae94b618c2cfd722178bb5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_67142d7f2a9fa28a41a985bc2f01226b845417ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="D:\2019_Projects\Shopping_App_for_Blind_people\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_e8f6303b454d4f2a1c912364c7095c84fad9d8e0.jar" />
+    </item>
+
+</items>

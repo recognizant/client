@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single"
+        android:id="@+id/grpCountries">
+        <item android:title="Australia"
+            android:id="@+id/itmAustralia" />
+        <item android:title="Argentina"
+            android:id="@+id/itmArgentina" />
+        <item android:title="Bulgaria"
+            android:id="@+id/itmBulgaria" />
+        <item android:title="Canada"
+            android:id="@+id/itmCanada" />
+        <item android:title="China"
+            android:id="@+id/itmChina" />
+        <item android:title="Denmark"
+            android:id="@+id/itmDenmark" />
+        <item android:title="Egypt"
+            android:id="@+id/itmEgypt" />
+        <item android:title="France"
+            android:id="@+id/itmFrance" />
+        <item android:title="Germany"
+            android:id="@+id/itmGermany" />
+        <item android:title="India"
+            android:id="@+id/itmIndia" />
+        <item android:title="Japan"
+            android:id="@+id/itmJapan" />
+    </group>
+
+</menu>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/grpEmail"
+        android:checkableBehavior="single" >
+        <item android:title="Gmail"
+            android:id="@+id/itmGmail" />
+        <item android:title="Yahoo"
+            android:id="@+id/itmYahoo" />
+        <item android:title="Hotmail"
+            android:id="@+id/itmHotmail" />
+        <item android:title="Yandex"
+            android:id="@+id/itmYandex" />
+        <item android:title="Other"
+            android:id="@+id/itmOther" />
+    </group>
+</menu>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single"
+        android:id="@+id/grpItem" >
+        <item android:title="Home"
+            android:id="@+id/itmHome"
+            android:icon="@drawable/home" />
+        <item android:title="About Us"
+            android:id="@+id/itmAbout"
+            android:icon="@drawable/settings" />
+        <item android:title="Help"
+            android:id="@+id/itmHelp"
+            android:icon="@drawable/locate_me" />
+        <item android:title="Rate"
+            android:id="@+id/itmRate"
+            android:icon="@drawable/info" />
+        <item android:title="Logout"
+            android:id="@+id/itmLogout"
+            android:icon="@drawable/info" />
+    </group>
+</menu>

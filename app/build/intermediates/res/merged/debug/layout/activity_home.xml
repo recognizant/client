@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_home"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.google.android.gms.samples.vision.ocrreader.Home"
+    android:descendantFocusability="afterDescendants"
+    android:focusableInTouchMode="true">
+
+    <android.support.v4.widget.DrawerLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/drawer_layout">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <include
+                android:id="@+id/toolbar"
+                layout="@layout/toolbar"/>
+
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/content_frame"></FrameLayout>
+
+        </LinearLayout>
+
+
+        <android.support.design.widget.NavigationView
+            android:id="@+id/navigation_view"
+            android:layout_height="match_parent"
+            android:layout_width="wrap_content"
+            android:layout_gravity="start"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            app:headerLayout="@layout/nav_header"
+            app:menu="@menu/menu_items">
+
+        </android.support.design.widget.NavigationView>
+
+    </android.support.v4.widget.DrawerLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/lnr">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Personal Emergency Tracking App"
+            android:layout_marginTop="80dp"
+            android:layout_marginLeft="70dp"
+            android:visibility="invisible"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Panic Alert"
+            android:layout_marginLeft="135dp"
+            android:id="@+id/txtVwPanicAlert"
+            android:layout_marginTop="30dp"
+            android:clickable="true"
+            android:visibility="invisible"/>
+
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Watch Over Me"
+            android:layout_marginLeft="125dp"
+            android:layout_marginTop="30dp"
+            android:id="@+id/txtVwWatchOverMe"
+            android:clickable="true"
+            android:visibility="invisible"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtVwEmergeny"
+            android:text="Emergency Details and Contacts"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="62dp"
+            android:clickable="true"/>
+
+    </LinearLayout>
+
+
+
+
+
+</RelativeLayout>
